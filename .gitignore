@@ -130,3 +130,7 @@ dmypy.json
 
 #Wikidata
 .data
+
+
+#Idea
+.idea
